@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orbit</string>
+    <string name="search_hint">Search spaceflight news</string>
+    <string name="retry">Retry</string>
+    <string name="feed_error">Couldn\'t load articles</string>
+    <string name="append_error">Couldn\'t load more articles</string>
+    <string name="empty_results">No articles found</string>
+    <string name="clear_search">Clear search</string>
+</resources>

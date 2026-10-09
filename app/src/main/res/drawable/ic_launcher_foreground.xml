@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Planet -->
+    <path
+        android:fillColor="#7FB4FF"
+        android:pathData="M54,42 a12,12 0 1,0 0.01,0 Z" />
+    <!-- Orbit ring -->
+    <path
+        android:strokeColor="#E8ECF8"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M30,61 A26,10 20 1,0 78,47 A26,10 20 1,0 30,61 Z" />
+    <!-- Satellite -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M76,44 a3.5,3.5 0 1,0 0.01,0 Z" />
+</vector>
